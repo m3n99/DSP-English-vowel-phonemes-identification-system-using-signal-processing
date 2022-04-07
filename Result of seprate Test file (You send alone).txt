@@ -1,0 +1,87 @@
+Part_1_Test ( The Highest Result) --> Cross Correlation 
+Test file[1]#classified  hood 
+Test file[2]#classified  heed 
+Test file[3]#classified  hood 
+Test file[4]#classified  hide 
+Test file[5]#classified  hood 
+Test file[6]#classified  hood 
+Test file[7]#classified  whod 
+Test file[8]#classified  hard 
+Test file[9]#classified  hood 
+Test file[10]#classified  whod 
+Test file[11]#classified  hide 
+Test file[12]#classified  hod 
+Test file[13]#classified  hide 
+Test file[14]#classified  hood 
+Test file[15]#classified  hide 
+Test file[16]#classified  hood 
+Test file[17]#classified  hudd 
+Test file[18]#classified  hide 
+Test file[19]#classified  hood 
+Test file[20]#classified  heard 
+Test file[21]#classified  hard 
+Test file[22]#classified  hood 
+Test file[23]#classified  hood 
+Test file[24]#classified  hood 
+Test file[25]#classified  hard 
+Test file[26]#classified  hard 
+
+
+
+----------------------------------------------------
+Part_2_Test (The mid rueslt) --> FFT 
+Test file [1] # classified  hoard 
+Test file [2] # classified  had 
+Test file [3] # classified  hade 
+Test file [4] # classified  whod 
+Test file [5] # classified  hod 
+Test file [6] # classified  hudd 
+Test file [7] # classified  had 
+Test file [8] # classified  hood 
+Test file [9] # classified  hoard 
+Test file [10] # classified  heed 
+Test file [11] # classified  had 
+Test file [12] # classified  heed 
+Test file [13] # classified  hide 
+Test file [14] # classified  hod 
+Test file [15] # classified  hade 
+Test file [16] # classified  had 
+Test file [17] # classified  hoard 
+Test file [18] # classified  hoard 
+Test file [19] # classified  head 
+Test file [20] # classified  hoard 
+Test file [21] # classified  hide 
+Test file [22] # classified  whod 
+Test file [23] # classified  hoard 
+Test file [24] # classified  hoard 
+Test file [25] # classified  hood 
+Test file [26] # classified  whod 
+------------------------------------
+
+Part_3_Test( The low rueslt) --> Filter Bank
+Test file [1] # classified  hoard 
+Test file [2] # classified  had 
+Test file [3] # classified  hade 
+Test file [4] # classified  whod 
+Test file [5] # classified  hod 
+Test file [6] # classified  hudd 
+Test file [7] # classified  had 
+Test file [8] # classified  hid 
+Test file [9] # classified  hoard 
+Test file [10] # classified  heed 
+Test file [11] # classified  hood 
+Test file [12] # classified  heed 
+Test file [13] # classified  hard 
+Test file [14] # classified  hod 
+Test file [15] # classified  hade 
+Test file [16] # classified  had 
+Test file [17] # classified  heard 
+Test file [18] # classified  hoard 
+Test file [19] # classified  hudd 
+Test file [20] # classified  hoard 
+Test file [21] # classified  hod 
+Test file [22] # classified  whod 
+Test file [23] # classified  hoard 
+Test file [24] # classified  hoard 
+Test file [25] # classified  had 
+Test file [26] # classified  whod 

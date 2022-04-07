@@ -1,0 +1,2 @@
+Part1,2,3_DSP is the training and testing for the three way in the project
+part1,2,3_Test is the sound vowel you send to test.
